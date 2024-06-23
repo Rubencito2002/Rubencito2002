@@ -25,9 +25,9 @@ Bienvenidos a mi perfil de GitHub. Soy **Rubencito2002**, un apasionado del desa
 
 ### 🔭 Proyectos en los que estoy trabajando
 
-- [Proyecto 1](https://github.com/Rubencito2002/proyecto1): Descripción breve del proyecto 1.
-- [Proyecto 2](https://github.com/Rubencito2002/proyecto2): Descripción breve del proyecto 2.
-- [Proyecto 3](https://github.com/Rubencito2002/proyecto3): Descripción breve del proyecto 3.
+- [Proyecto 1](https://github.com/Rubencito2002/proyectoIntegrado): Este proyecto ha sido desarrollado para mi TFG de mi fin de estudios del CFGS DAW.
+- [Proyecto 2](https://github.com/Rubencito2002/DAW): Este repositorio tiene todo mi contenido durante mi ultimo año del CFGS DAW.
+- [Proyecto 3](https://github.com/Rubencito2002/marvel-explorer): Este proyecto fue uno de los primeros que he desarrollado usando REACT.
 
 ### 🌱 Actualmente estoy aprendiendo
 
@@ -55,8 +55,10 @@ Bienvenidos a mi perfil de GitHub. Soy **Rubencito2002**, un apasionado del desa
 
 ### 📫 Cómo contactarme
 
-- **Correo electrónico**: [tucorreo@example.com](mailto:tucorreo@example.com)
-- **LinkedIn**: [tuperfil](https://www.linkedin.com/in/tuperfil)
+- **Correo electrónico**: [ruben.machado1920@gmail.com](mailto:ruben.machado1920@gmail.com)
+<!--
+- **LinkedIn**: [tuperfil](https://www.linkedin.com/in/tuperfil) 
+-->
 
 ### ⚡ Fun fact
 
