@@ -35,6 +35,7 @@ Bienvenidos a mi perfil de GitHub. Soy **Rubencito2002**, un apasionado del desa
 - **Tecnología 1**: Django que es un framework de Python.
 - **Tecnología 2**: Angular que es un framework de JS.
 - **Tecnología 3**: React que es una libreria de JS.
+- **Tecnología 4**: Bootstrapp que es una libreria para manerjar el tema del responsive.
 
 ### 👯 Busco colaborar en
 
