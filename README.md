@@ -29,6 +29,8 @@ Bienvenidos a mi perfil de GitHub. Soy **Rubencito2002**, un apasionado del desa
 - [Proyecto 2](https://github.com/Rubencito2002/DAW): Este repositorio tiene todo mi contenido durante mi ultimo año del CFGS DAW.
 - [Proyecto 3](https://github.com/Rubencito2002/marvel-explorer): Este proyecto fue uno de los primeros que he desarrollado usando REACT.
 - [Proyecto 4](https://github.com/Rubencito2002/ProyectoBootstrapConCSS): Este proyecto ha sido realizado a partir de un taller sobre Bootstrapp 5 con CSS propio.
+- [Proyecto 5](https://github.com/Rubencito2002/twitch-founders): Este proyecto fue para poder mostrar como unos créditos para un streamer en sus stream.
+- [Proyecto 6](https://github.com/Rubencito2002/StudentManagementSystem): Este proyecto fue recordar de como se programaba en Java ya que llevaba como un año sin tocar el lenguaje.
 
 ### 🌱 Actualmente estoy aprendiendo
 
